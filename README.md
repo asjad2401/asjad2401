@@ -17,11 +17,11 @@
 
 I'm a Computer Science student who likes working at every layer of the stack — from Rust internals to TypeScript frontends. I'm especially drawn to performance-critical systems and practical AI applications.
 
-- 🦀 Currently building **rustnum** — a NumPy-compatible numerical library powered by Rust
-- 🤖 Exploring local LLM deployment with **LocalQwenModel**
-- ⚡ Researching HPC task offloading with **OFFLOAD-HPC**
-- 🌾 Using ML to drive agricultural intelligence with **AgriIntel**
-- 🎯 I enjoy competitive programming — solved problems across HackerRank, Google Foobar, and NASCON
+- Currently building **rustnum** — a NumPy-compatible numerical library powered by Rust
+- Exploring local LLM deployment with **LocalQwenModel**
+- Researching HPC task offloading with **OFFLOAD-HPC**
+- Using ML to drive agricultural intelligence with **AgriIntel**
+- I enjoy competitive programming — solved problems across HackerRank, Google Foobar, and NASCON
 
 ---
 
