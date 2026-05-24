@@ -60,7 +60,7 @@ I'm a Computer Science student who likes working at every layer of the stack —
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦀 rustnum</h3>
+      <h3>rustnum</h3>
       <p>NumPy-compatible Python library backed by Rust. Same familiar API — measurably faster execution through Rust's zero-cost abstractions.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -69,7 +69,7 @@ I'm a Computer Science student who likes working at every layer of the stack —
       <a href="https://github.com/asjad2401/rustnum">→ View repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>😶 EmoCap</h3>
+      <h3>EmoCap</h3>
       <p>Emotion capture and recognition pipeline using deep learning. Detects and classifies human emotions from visual input in real time.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -89,7 +89,7 @@ I'm a Computer Science student who likes working at every layer of the stack —
       <a href="https://github.com/asjad2401/OFFLOAD-HPC">→ View repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Mind Forge</h3>
+      <h3>Mind Forge</h3>
       <p>Full-stack platform built to streamline entry test preparation for students. Includes separate user and admin dashboards with full CRUD.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -100,7 +100,7 @@ I'm a Computer Science student who likes working at every layer of the stack —
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 AgriIntel</h3>
+      <h3>AgriIntel</h3>
       <p>ML-driven agricultural intelligence system. Applies machine learning models to assist data-driven decision-making in farming contexts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -109,7 +109,7 @@ I'm a Computer Science student who likes working at every layer of the stack —
       <a href="https://github.com/asjad2401/Agri_intel">→ View repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 LocalQwenModel</h3>
+      <h3>LocalQwenModel</h3>
       <p>Local deployment setup for the Qwen LLM. Runs large language models fully on-device — no cloud, no API keys, complete privacy.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
